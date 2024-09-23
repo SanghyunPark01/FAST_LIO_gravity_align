@@ -1,3 +1,9 @@
+# Gravity Aligned FAST-LIO2 
+
+eidt `src/IMU_Processing.hpp` line 196 ~ 203  
+
+This enables FAST-LIO2 to perform gravity-aligned mapping.
+
 ## Related Works and Extended Application
 
 **SLAM:**
