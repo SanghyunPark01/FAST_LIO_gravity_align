@@ -2,7 +2,8 @@
 
 eidt `src/IMU_Processing.hpp` line 196 ~ 203  
 
-This enables FAST-LIO2 to perform gravity-aligned mapping.
+This enables FAST-LIO2 to perform gravity-aligned mapping.  
+You can build it the same way as before.  
 
 ## Related Works and Extended Application
 
