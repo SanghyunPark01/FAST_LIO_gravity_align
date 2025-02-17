@@ -5,6 +5,8 @@ eidt `src/IMU_Processing.hpp` line 196 ~ 203
 This enables FAST-LIO2 to perform gravity-aligned mapping.  
 You can build it the same way as before.  
 
+**ros package name** in command line: `fast_lio` -> `fast_lio_gravity_align`  
+
 ## Related Works and Extended Application
 
 **SLAM:**
